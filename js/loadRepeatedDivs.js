@@ -4,7 +4,7 @@ function loadRepeatedDivs(){
     
     $("#navigation-bar").load("js/loadNavigationBar.html");
     
-    $("#footer-bar").load("js/loadfooterBar.html");
+    $("#footer-bar").load("js/footer-bar.html");
     
 }
 
