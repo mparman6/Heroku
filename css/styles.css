@@ -7,7 +7,7 @@ body
     background-color: #ADD8E6;
 }
 
-#name-title, td
+#name-title, td, #form
 {
     text-align: center;
 }
