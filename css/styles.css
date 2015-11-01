@@ -7,7 +7,7 @@ body
     background-color: #ADD8E6;
 }
 
-#name-title, #content-title , td
+#name-title, .content-title , td
 {
     text-align: center;
 }
@@ -52,7 +52,7 @@ img
 
 #nav li
 {
-    float: left;
+    float: right;
     margin-left: 30px;
     background-color: #506a8f;
     padding: 8px;
