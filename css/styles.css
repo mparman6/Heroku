@@ -7,9 +7,16 @@ body
     background-color: #ADD8E6;
 }
 
-#name-title, .content-title , td
+#name-title, td
 {
     text-align: center;
+}
+
+.content-title
+{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #navbar
@@ -91,7 +98,7 @@ ul
 {
     list-style-position: inside;
     text-align: left;
-    padding-left: 15px;
+    padding: 15px;
 }
 
 #content
