@@ -1,0 +1,7 @@
+For my portfolio, 
+	- Use tables as tabs for different information (Education, Background, Hobbies, etc.)
+	- Use forms so that people can get in touch with me
+	
+	For Blog
+	- wrap posts in "article tag"
+	
