@@ -12,13 +12,28 @@ body
     text-align: center;
 }
 
-#direct-contact
+.fa-2x, #bold-dc, form
 {
-    text-align: center;
+    padding: 0px 15px;
+}
+
+#dc-text
+{
+    padding: 0px 5px;
+}
+
+#direct-contact, #form, #social-media
+{
+    text-align: left;
     padding-top: 15px;
 }
 
-
+#social-media a
+{
+    color: silver;
+    margin-left: 25px;
+    margin-right: :25px;
+}
 
 .content-title
 {
@@ -112,19 +127,6 @@ ul
 #content
 {
     padding-bottom: 85px;
-}
-
-#social-media
-{
-    padding-top: 20px;
-    text-align: center;
-}
-
-#social-media a
-{
-    color: silver;
-    margin-left: 25px;
-    margin-right: :25px;
 }
 
 #footer
