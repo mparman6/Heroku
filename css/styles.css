@@ -12,6 +12,14 @@ body
     text-align: center;
 }
 
+#direct-contact
+{
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
 .content-title
 {
     text-align: center;
@@ -22,7 +30,7 @@ body
 #navbar
 {
     background-color: #2f4e79;
-    height: 100px;
+    height: 85px;
     width: 100%;
 }
 
@@ -35,7 +43,7 @@ body
 
 img
 {
-    padding: 15px;
+    padding: 10px;
 }
 
 #nav-area
@@ -48,7 +56,7 @@ img
 #nav
 {
     list-style: none;
-    margin-top: 30px;
+    margin-top: 10px;
 }
  
 #nav a
@@ -104,6 +112,19 @@ ul
 #content
 {
     padding-bottom: 85px;
+}
+
+#social-media
+{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#social-media a
+{
+    color: silver;
+    margin-left: 25px;
+    margin-right: :25px;
 }
 
 #footer
