@@ -1,0 +1,136 @@
+/* CSS for My Portfolio */
+
+* { 
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #ADD8E6;
+}
+
+#name-title, td {
+    text-align: center;
+}
+
+.fa-2x, #bold-dc, form {
+    padding: 0px 5px;
+}
+
+#dc-text {
+    padding: 0px 5px;
+}
+
+.contact-class{
+    text-align: left;
+    padding-top: 15px;
+}
+
+#social-media a {
+    color: silver;
+    margin-left: 5px;
+    margin-right: :45px;
+}
+
+.content-title {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#navbar {
+    background-color: #2f4e79;
+    height: 85px;
+    width: 100%;
+}
+
+#logo-area {
+    width: 80px;
+    height: 80px;
+    float: left; 
+}
+
+img {
+    padding: 10px;
+}
+
+#nav-area {
+    width: 860px;
+    height: 100px;
+    float: right;
+}
+
+#nav {
+    list-style: none;
+    margin-top: 10px;
+}
+ 
+#nav a {
+    color: white;
+    text-decoration: none;
+}
+
+#nav li {
+    float: right;
+    margin-left: 30px;
+    background-color: #506a8f;
+    padding: 8px;
+    border: 1px white;
+    border-radius: 5px;
+}
+
+#nav li:hover {
+    background-color: gray;
+}
+
+
+.container {
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.page {
+    background-color: #708090;
+    padding: 20px;
+    padding-bottom: 1px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+    padding: 15px;
+}
+
+#content {
+    padding-bottom: 85px;
+}
+
+#footer {
+    background-color: #282828;
+    height: 40px;
+    width: 100%;
+    color: white;
+    padding-top: 20px;
+    position: fixed;
+    bottom:0;
+}
+
+#footer i {
+    float: right;
+    margin-left: 20px;
+    margin-right: :20px;
+}
+
+#footer a {
+    color: white;
+    text-decoration: none;
+}
+
