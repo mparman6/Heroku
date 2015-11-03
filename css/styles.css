@@ -22,7 +22,7 @@ body {
     padding: 0px 5px;
 }
 
-#direct-contact, #form, #social-media {
+.contact-class{
     text-align: left;
     padding-top: 15px;
 }
