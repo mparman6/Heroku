@@ -6,86 +6,72 @@
     font-family: 'Raleway', sans-serif;
 }
 
-body
-{
+body {
     background-color: #ADD8E6;
 }
 
-#name-title, td
-{
+#name-title, td {
     text-align: center;
 }
 
-.fa-2x, #bold-dc, form
-{
+.fa-2x, #bold-dc, form {
     padding: 0px 5px;
 }
 
-#dc-text
-{
+#dc-text {
     padding: 0px 5px;
 }
 
-#direct-contact, #form, #social-media
-{
+#direct-contact, #form, #social-media {
     text-align: left;
     padding-top: 15px;
 }
 
-#social-media a
-{
+#social-media a {
     color: silver;
     margin-left: 5px;
     margin-right: :45px;
 }
 
-.content-title
-{
+.content-title {
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
-#navbar
-{
+#navbar {
     background-color: #2f4e79;
     height: 85px;
     width: 100%;
 }
 
-#logo-area
-{
+#logo-area {
     width: 80px;
     height: 80px;
     float: left; 
 }
 
-img
-{
+img {
     padding: 10px;
 }
 
-#nav-area
-{
+#nav-area {
     width: 860px;
     height: 100px;
     float: right;
 }
 
-#nav
-{
+#nav {
     list-style: none;
     margin-top: 10px;
 }
  
-#nav a
-{
+#nav a {
     color: white;
     text-decoration: none;
 }
 
-#nav li
-{
+#nav li {
     float: right;
     margin-left: 30px;
     background-color: #506a8f;
@@ -94,47 +80,40 @@ img
     border-radius: 5px;
 }
 
-#nav li:hover
-{
+#nav li:hover {
     background-color: gray;
 }
 
 
-.container
-{
+.container {
     width: 960px;
     height: auto;
     margin: 0 auto;
 }
 
-.page
-{
+.page {
     background-color: #708090;
     padding: 20px;
     padding-bottom: 1px;
 }
 
-.logo
-{
+.logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-ul
-{
+ul {
     list-style-position: inside;
     text-align: left;
     padding: 15px;
 }
 
-#content
-{
+#content {
     padding-bottom: 85px;
 }
 
-#footer
-{
+#footer {
     background-color: #282828;
     height: 40px;
     width: 100%;
@@ -144,15 +123,13 @@ ul
     bottom:0;
 }
 
-#footer i
-{
+#footer i {
     float: right;
     margin-left: 20px;
     margin-right: :20px;
 }
 
-#footer a
-{
+#footer a {
     color: white;
     text-decoration: none;
 }
